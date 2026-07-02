@@ -9,8 +9,6 @@ My portfolio website !!
 - **Tailwind CSS**
 - **Framer Motion** (for animations)
 
-## Getting Started
-
 ## Project Structure
 
 ```
