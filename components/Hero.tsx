@@ -57,7 +57,7 @@ const Hero = () => {
           className="flex flex-col sm:flex-row gap-4 justify-center"
         >
           <motion.a
-            href="https://drive.google.com"
+            href="https://drive.google.com/file/d/1wIfB8-CduOjW1wuoWbBwdepoeLtMvVcP/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 bg-primary text-primary-foreground rounded-lg font-medium hover:bg-primary/90 transition-all hover:shadow-lg hover:shadow-primary/20"
